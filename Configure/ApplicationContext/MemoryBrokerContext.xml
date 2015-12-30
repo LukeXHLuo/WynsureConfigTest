@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<EntityExport><aWFMemoryBrokerContext><MinimimIntervalInSec Id="1"><![CDATA[600]]></MinimimIntervalInSec><MinimumIncreaseOfFullObjectsRatio Id="2"><![CDATA[20.00%]]></MinimumIncreaseOfFullObjectsRatio><UnloadReferences Id="3"><![CDATA[true]]></UnloadReferences><Name Id="3"><![CDATA[]]></Name><MigrationDate Id="15"><![CDATA[--/--/----]]></MigrationDate><NSId Id="1"><![CDATA[318767776]]></NSId><Id Id="2"><![CDATA[1]]></Id><Version Id="3"><![CDATA[1]]></Version></aWFMemoryBrokerContext></EntityExport>
